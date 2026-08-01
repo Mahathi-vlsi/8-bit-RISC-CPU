@@ -31,4 +31,4 @@ A single-cycle 8-bit RISC Processor designed and implemented in Verilog HDL for 
 | 00100 | LOAD_IMM | R[rd] = imm |
 | 00110 | STORE | Mem[imm] = R[rd] |
 | 01000 | JMP | PC = imm |
-   ![8-bit RISC CPU Waveform](waveform png.pdf)
+   [8-bit RISC CPU Waveform](waveform png.pdf)
