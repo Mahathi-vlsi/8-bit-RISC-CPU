@@ -34,4 +34,6 @@ A single-cycle 8-bit RISC Processor designed and implemented in Verilog HDL for 
 
 ## Simulation Waveform
 
-![8-bitRISC CPU Waveform png.pdf]
+![8-bit RISC CPU Waveform](waveform.png)
+
+
